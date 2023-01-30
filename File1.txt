@@ -1,3 +1,4 @@
 Ini File 1
 Ini Edit pertama
 Ini Edit Kedua
+Ini Edit Ketiga
